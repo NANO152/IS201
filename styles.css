@@ -1,0 +1,29 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: normal;
+    color: #444
+}
+.paragraph {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    text-align: justify;
+    color:black
+
+}
+
+.heading {
+
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+
+}
+
+.smallheading {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
